@@ -1,0 +1,73 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.menulinje{
+	display: inline;
+	font-family: 'Raleway', Helvetica, "Helvetica neue", sans-serif;
+	font-size: large; 
+	color: #C69697;
+	padding: 15px 30px;
+	border-radius: 20px;
+	opacity: 4.0;
+	text-align: center;
+	font-family: Raleway, helvetica, sans-serif;
+	background-color: #F1C4C4;
+	width: 100%;
+	font-weight:lighter;
+	letter-spacing: 2px;	
+}
+
+.menulinje li{
+    list-style: none;
+    display: inline;
+    font-family: Raleway, helvetica, sans-serif;
+    font-weight: 300;
+
+}
+
+nav{ 
+    margin-top: 4%;
+    width: 100%;
+    text-align: center;
+	}
+
+a {
+	color: #A28686;
+}
+
+a:hover{
+	color:#000000;
+}
+	
+.active { /* Den aktive side */
+	color: white;
+	
+}
+
+#formular{
+	height: 300px;
+	width:300px; 
+	text-align: center;
+	padding: 15px 30px;
+	border-radius: 20px;
+	opacity: 3.0;
+	font-family: Raleway, helvetica, sans-serif;
+	background-color: #FEEAEA;
+	font-weight:lighter;
+	letter-spacing: 2px;	
+
+	}
+p {
+	text-align:center;
+	font-size:30px;
+	font-family: Raleway, helvetica, sans-serif;
+	}
+	
+h1{
+	text-align:center;
+	margin-top:6%;
+	font-family: Raleway, helvetica, sans-serif;
+	}
+
+
+
